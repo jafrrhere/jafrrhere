@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jafrrhere
+- 👋 Hi, I’m Jafar Tamboli
 - 👀 I’m interested in Coding/ Designing
 - 🌱 I’m currently learning UI/UX
 - 📫 reach me- tambolijafar24@gmail.com / @jafrrhere
