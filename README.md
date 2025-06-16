@@ -1,4 +1,4 @@
-<img src="[banner_github.png](https://hdyloqcphgwfyuyvchvi.supabase.co/storage/v1/object/public/project-images//banner_github.png)" alt="GitHub Banner" width="100%" />
+<img src="(https://hdyloqcphgwfyuyvchvi.supabase.co/storage/v1/object/public/project-images//banner_github.png)" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Jafar, a Designer & Programmer 👋🏼:
 🛜 currently working on my own [webpage](jafrrhere.netlify.app)<br>👨🏼‍🎓 studying Btech in cse from MIT ADTU<br>👨🏼‍💻 I love making designs and preograms <br>
