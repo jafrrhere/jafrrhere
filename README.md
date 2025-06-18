@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Jafar, a Designer & Programmer 👋🏼:
-🛜 currently working on my own [webpage]("jafrrhere.netlify.app")<br>👨🏼‍🎓 studying Btech in cse from MIT ADTU<br>👨🏼‍💻 I love making designs and preograms <br>
+🛜 currently working on my own [webpage](jafrrhere.netlify.app)<br>👨🏼‍🎓 studying Btech in cse from MIT ADTU<br>👨🏼‍💻 I love making designs and preograms <br>
 
 
 # 💻 Tech Stack:
